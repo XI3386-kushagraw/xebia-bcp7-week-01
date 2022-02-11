@@ -1,3 +1,5 @@
+07. Find the Longest Continuous Ascending Sequence (Given Integer Array)
+
 import java.util.Scanner;
 
 
